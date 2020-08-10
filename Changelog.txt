@@ -1,0 +1,18 @@
+
+
+1.2:
+Fixed text shadows.
+Background color to dark gray without transparency.
+Border background color to one pixel full black without transparency.
+Player threat rows are now using more clear colors.
+Fixed a bug that made other rows to the same color as the players own color.
+
+
+1.1:
+* Removed most animations.
+* Removed background of threat elements.
+* Removed the diamond icon.
+* Removed the diamond target player icon.
+* Altered that the players character is blue in the threat elements.
+* Altered that the frame moves up/down when new elements are added, to make the main frame seem static.
+* Shortened the Y distance beteeen threat elements.
